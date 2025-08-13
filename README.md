@@ -4,7 +4,7 @@ A comprehensive web application built with TypeScript and Tailwind CSS for inter
 
 ## 🚀 Live Demo
 
-Experience the application: [Deployed on Vercel](https://your-deployment-url.vercel.app)
+Experience the application: [Deployed on Vercel](https://aivra-kohl.vercel.app/)
 
 ---
 
