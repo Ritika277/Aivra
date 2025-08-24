@@ -223,4 +223,3 @@ Contributions welcome! Please read our contributing guidelines and submit pull r
 
 ---
 
-Built with ❤️ using React, TypeScript, and Tailwind CSS
